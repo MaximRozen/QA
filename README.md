@@ -73,4 +73,5 @@ https://app.qase.io/public/report/e95eb140ba0de6f68650594682972bcb3b6ce42a
 По результатам регрес тестирования, продукт соответствует требованиям, работает корректно и готов к запуску. 
 
 
+
 Email: rozenbergmn@icloud.com
