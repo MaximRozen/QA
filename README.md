@@ -55,8 +55,7 @@ https://api.postman.com/collections/26432344-38e55c55-c497-426e-8fb4-78290d722c9
 тест кейсы:
 https://app.qase.io/public/report/e95eb140ba0de6f68650594682972bcb3b6ce42a
 
-логин: rmaxqa@protonmail.com 
-пароль: 123qwe123qwe
+
 
 
 Отчет по тестированию:
