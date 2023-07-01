@@ -15,47 +15,29 @@ SoapUI, Chrome DevTools.
 Что нужно было сделать:
 
 Предоставить учителям возможность добавлять и редактировать события в расписании.
-
-Как решал: 
-Для решения задачи были проведены тестирования:
+ 
+Для решения этой задачи были проведены следующие тестирования:
 
 -функциональное тестирование
+
+
 -регрессионное тестирование
+
+
+
 -smoke-тестирование
+
+
+
 -API-тестирование
 
-сылки на тестирование:
- 
--Функциональное тестирование
-
-Изменение цвета события
-тест - кейс 1 : https://app.qase.io/project/COW1?previewMode=side&suite=4
-чек-лист :https://chlist.sitechco.ru/project/37684/checklist/1441983/details
-
-Выбор прошедшей даты:
-тест - кейс : https://app.qase.io/project/COW1?previewMode=side&suite=4
-чек-лист :https://chlist.sitechco.ru/project/37684/checklist/1441983/details
-
-Изменение продолжительности события
-тест - кейс : https://app.qase.io/project/COW1?previewMode=side&suite=4
-чек-лист :https://chlist.sitechco.ru/project/37684/checklist/1441983/details
-
-Smoke-тестирование
-тест - кейс : https://app.qase.io/project/COW1?suite=5
-
--Регрессионное тестирование
-чек-лис :https://chlist.sitechco.ru/project/37684/checklist/1441983/details 
-
--Тестирование API
-
--функциональные тест-кейсы:
-коллекция Postman:
-https://api.postman.com/collections/26432344-38e55c55-c497-426e-8fb4-78290d722c9e?access_key=PMAT-01H12186BFDHNFMRJ60RY8ZVGZ
-
-тест кейсы:
-https://app.qase.io/public/report/e95eb140ba0de6f68650594682972bcb3b6ce42a
+Подробней о этапах тестрирования можно посмотреть в прилагающихся файлах в формате pdf 
+[COW1-2023-07-01.pdf](https://github.com/MaximRozen/QA/files/11926613/COW1-2023-07-01.pdf)
 
 
+
+Так же прилагается коллекция тестирования в Postman
+[21 17-36-59646a56bb7b6bf9.17248695cw220230521.pdf](https://github.com/MaximRozen/QA/files/11926619/21.17-36-59646a56bb7b6bf9.17248695cw220230521.pdf) в pdf формате 
 
 
 Отчет по тестированию:
