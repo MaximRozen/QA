@@ -8,8 +8,7 @@
 
 **Jira, gase. io, SQL, Postman, Fiddler, Swagger ,
 Trello,SoapUI, Android Studio, Code , Charles, Git,
-Chrome DevTools.
-**
+Chrome DevTools.**
 
 
 # Проекты: 
